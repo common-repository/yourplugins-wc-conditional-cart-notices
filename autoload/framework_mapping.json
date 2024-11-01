@@ -1,0 +1,13 @@
+{
+    "yps\/framework-core": "Core",
+    "yps\/framework-string": "String",
+    "yps\/framework-database": "Database",
+    "yps\/framework-encode": "Encode",
+    "yps\/framework-form": "Form",
+    "yps\/framework-plugin": "Plugin",
+    "yps\/framework-query-builder": "Query_Builder",
+    "yps\/framework-record": "Record",
+    "yps\/framework-settings": "Settings",
+    "yps\/framework-woocommerce": "Woocommerce",
+    "yps\/framework-wordpress": "Wordpress"
+}

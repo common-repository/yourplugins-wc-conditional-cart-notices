@@ -1,0 +1,42 @@
+{
+
+    "require": {
+      "yps/framework-core": "dev-trunk",
+      "yps/framework-database": "dev-trunk",
+      "yps/framework-encode": "dev-trunk",
+      "yps/framework-form": "dev-trunk",
+      "yps/framework-plugin": "dev-trunk",
+      "yps/framework-query-builder": "dev-trunk",
+      "yps/framework-record": "dev-trunk",
+      "yps/framework-settings": "dev-trunk",
+      "yps/framework-string": "dev-trunk",
+      "yps/framework-woocommerce": "dev-trunk",
+      "yps/framework-wordpress": "dev-trunk"
+    },
+  
+    "config": {
+      "autoloader-suffix": "YPS_WC_Conditional_Cart_Notices_Autoloader"
+    },
+  
+    "autoload": {
+  
+      "psr-4": {
+        "YPS\\WC_Conditional_Cart_Notices\\":"app/"
+      },
+  
+      "classmap": [
+        "app/"
+      ]
+    },
+  
+    "extra": {
+
+      "dist": {
+        "*": ["*"]
+      },
+
+      "plugin_namespace": "YPS\\WC_Conditional_Cart_Notices"
+    }
+  
+  }
+  

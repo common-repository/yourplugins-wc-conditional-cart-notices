@@ -1,0 +1,229 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2021-07-09 16:39+0200\n"
+"PO-Revision-Date: 2021-07-09 16:40+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: it_IT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: application/view/application-tabs.php:11 notice/notice-controller.php:26
+msgid "Notices"
+msgstr "Messaggi"
+
+#: application/view/application-tabs.php:20
+msgid "Notices Templates"
+msgstr "Lista template"
+
+#: application/view/application-tabs.php:29
+msgid "General Settings"
+msgstr "Impostazioni generali"
+
+#: notice/notice-controller.php:25
+msgid "Notice"
+msgstr "Messaggio"
+
+#: notice/notice-controller.php:28
+msgid "Notice List"
+msgstr "Lista Messaggi"
+
+#: notice/notice-form.php:57
+msgid "Notice Basic Settings"
+msgstr "Impostazioni base messaggio"
+
+#: notice/notice-form.php:62
+msgid "Notice Rule"
+msgstr "Regola messaggio"
+
+#: notice/notice-form.php:67
+msgid "Total Amount Settings"
+msgstr "Impostazioni Totale Importo"
+
+#: notice/notice-form.php:72
+msgid "Appearance Settings"
+msgstr "Impostazioni grafiche"
+
+#: notice/notice-form.php:115 template/template-form.php:67
+msgid "ID"
+msgstr "ID"
+
+#: notice/notice-form.php:129 template/template-form.php:81
+msgid "Name"
+msgstr "Nome"
+
+#: notice/notice-form.php:142
+msgid "Enabled"
+msgstr "Abilitato"
+
+#: notice/notice-form.php:154
+msgid "Rule"
+msgstr "Regola"
+
+#: notice/notice-form.php:165
+msgid "Price"
+msgstr "Prezzo"
+
+#: notice/notice-form.php:171
+msgid "Product Quantity"
+msgstr "Quantità Prodotto"
+
+#: notice/notice-form.php:177
+msgid "Total Quantity"
+msgstr "Quantità Totale"
+
+#: notice/notice-form.php:183
+msgid "Total Amount"
+msgstr "Totale Importo"
+
+#: notice/notice-form.php:191
+msgid "Include Coupons in \"Total Amount\""
+msgstr "Includi Coupon in \"Importo Totale\""
+
+#: notice/notice-form.php:205
+msgid "Include Coupons Taxes in \"Total Amount\""
+msgstr "Includi Tasse Coupon in \"Importo Totale\""
+
+#: notice/notice-form.php:219
+msgid "Include Taxes in \"Total Amount\""
+msgstr "Includi Tasse in \"Importo Totale\""
+
+#: notice/notice-form.php:233
+msgid "Include Shipping Taxes in \"Total Amount\""
+msgstr "Includi Tasse di spedizione in \"Importo Totale\""
+
+#: notice/notice-form.php:248
+msgid "Template"
+msgstr "Template"
+
+#: notice/notice-form.php:262
+msgid "Button Text"
+msgstr "Testo pulsante"
+
+#: notice/notice-form.php:274
+msgid "Button URL"
+msgstr "URL pulsante"
+
+#: notice/notice-form.php:286
+msgid "Open link in a new window"
+msgstr "Apri link in nuova finestra"
+
+#: notice/notice-form.php:300
+msgid "Show Notice In"
+msgstr "Visualizza messaggio in"
+
+#: notice/notice-form.php:315
+msgid "Cart Position"
+msgstr "Posizione in carrello"
+
+#: notice/notice-form.php:324
+msgid "Before Cart"
+msgstr "Prima del carrello"
+
+#: notice/notice-form.php:325
+msgid "After Cart"
+msgstr "Dopo il carrello"
+
+#: notice/notice-form.php:326
+msgid "Before Cart Table"
+msgstr "Prima della tabella del carrello"
+
+#: notice/notice-form.php:327
+msgid "After Cart Table"
+msgstr "Dopo la tabella del carrello"
+
+#: notice/notice-form.php:328
+msgid "Before Cart Contents"
+msgstr "Prima del contenuto del carrello"
+
+#: notice/notice-form.php:329
+msgid "After Cart Contents"
+msgstr "Dopo il contenuto del carrello"
+
+#: notice/notice-form.php:335
+msgid "Checkout Position"
+msgstr "Posizione in checkout"
+
+#: notice/notice-form.php:355
+msgid "Product Position"
+msgstr "Posizione in prodotto"
+
+#: notice/notice-form.php:375
+msgid "Shop Position"
+msgstr "Posizione in shop"
+
+#: notice/notice-form.php:391
+msgid "Notice Message"
+msgstr "Testo messaggio"
+
+#: settings/settings-form.php:18
+msgid "Settings"
+msgstr "Impostazioni"
+
+#: settings/settings-form.php:30
+msgid "Show in Cart"
+msgstr "Visualizza in carrello"
+
+#: settings/settings-form.php:40
+msgid "Show in Checkout"
+msgstr "Visualizza in checkout"
+
+#: settings/settings-form.php:50
+msgid "Show in Shop"
+msgstr "Visualizza in shop"
+
+#: settings/settings-form.php:60
+msgid "Show in Product"
+msgstr "Visualizza in prodotto"
+
+#: template/template-controller.php:26
+msgid "Template List"
+msgstr "Lista template"
+
+#: template/template-form.php:26
+msgid "Template Basic Settings"
+msgstr "Impostazioni base template"
+
+#: template/template-form.php:31
+msgid "Box Settings"
+msgstr "Impostazioni Box"
+
+#: template/template-form.php:36
+msgid "Icon Settings"
+msgstr "Impostazioni icona"
+
+#: template/template-form.php:41
+msgid "Button Settings"
+msgstr "Impostazioni pulsante"
+
+#: template/template-form.php:94 template/template-form.php:121
+#: template/template-form.php:175
+msgid "Background Color"
+msgstr "Colore di sfondo"
+
+#: template/template-form.php:103 template/template-form.php:130
+msgid "Border Color"
+msgstr "Colore bordo"
+
+#: template/template-form.php:112 template/template-form.php:157
+msgid "Text Color"
+msgstr "Colore testo"
+
+#: template/template-form.php:139
+msgid "Background Color on hover"
+msgstr "Colore sfondo al passaggio del mouse"
+
+#: template/template-form.php:148
+msgid "Border Color on hover"
+msgstr "Colore bordo al passaggio del mouse"
+
+#: template/template-form.php:166
+msgid "Icon Image"
+msgstr "Immagine"
